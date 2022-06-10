@@ -116,8 +116,7 @@ main-commands:
       empty: "&7None"
   info:
     content:
-      - "&b============ &l%party%'s Info &r&b============"
-      - "&b&lDescription&7: %desc%"
+      - "&b============ &lParty Info &r&b============"
       - "&bLeader&7: %list_rank_leader%"
       - "&bMods&7: %list_rank_moderator%"
       - "&bMembers&7: %list_rank_member%"

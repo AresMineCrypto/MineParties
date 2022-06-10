@@ -103,7 +103,7 @@ public abstract class PartyImpl implements Party {
 		password = null;
 		protection = false;
 		experience = 0;
-		followEnabled = false;
+		followEnabled = true;
 		
 		expResult = new ExpResult();
 		cacheExperience = -1;

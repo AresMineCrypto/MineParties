@@ -118,7 +118,6 @@ main-commands:
     content:
       - "&b============ &lParty Info &r&b============"
       - "&bLeader&7: %list_rank_leader%"
-      - "&bMods&7: %list_rank_moderator%"
       - "&bMembers&7: %list_rank_member%"
       - "&bOnline players&7: %members_online_total%"
   invite:
